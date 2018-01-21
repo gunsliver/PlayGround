@@ -1,0 +1,25 @@
+
+I'll keep this in bullet form to be brief:
+• Implement a stack in your favorite language (I used C++)
+
+• How are arguments passed in C? (Where? What order?)
+
+• How does virtual memory work? Went into some detail on what happens on Linux when a page fault occurs.
+
+• How would you get the address of a field in a C struct?
+
+• Write a method to find the in order successor in a binary tree.
+
+• Debug this method in GDB.
+
+• What is the Big O complexity of this code?
+
+Essentially, you should know stacks, trees, heaps and other data structures, as well as basic sorting, searching and optimization algorithms.
+
+Interview Questions
+
+How are programs and data typically organized in memory? Draw a diagram. (i.e., DATA, BSS, heap, stack)? I hadn't thought about this for a while, but I still got 90% of the answer correct.  
+Answer Question
+Negotiation
+
+No negotiation. Stock options and salary were pretty much take it or leave it, but the offer was a good one.
